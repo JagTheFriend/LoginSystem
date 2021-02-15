@@ -82,7 +82,7 @@ def main():
         if choice == 1:
             return login()
 
-    print("\nPlease enter a valid number between 0-10")
+    print("\nPlease enter a valid number")
     return menu()
 
 
