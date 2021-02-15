@@ -62,7 +62,7 @@ def _save_data(user_data: {str: str}):
 
 
 def main():
-    r"""
+    """
     1) To login
     2) To make a new account
     3) To quit
