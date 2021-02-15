@@ -73,7 +73,7 @@ def main():
         choice = int(choice)
         if choice == 3:
             _save_data(users)
-            print("\nByeeeee")
+            print("\nBye")
             return
 
         if choice == 2:
@@ -82,7 +82,7 @@ def main():
         if choice == 1:
             return login()
 
-    print("\nPlease enter a valid number")
+    print("\nPlease enter a valid number between 0-10")
     return menu()
 
 
