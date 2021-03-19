@@ -2,7 +2,7 @@ import json
 import time
 from getpass import getpass
 
-DB = "v2_db.json"
+DB = "data.json"
 
 
 class Main(object):
